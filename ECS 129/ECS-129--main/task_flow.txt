@@ -1,0 +1,15 @@
+1.Read in file and save each coordinates
+2. create class object to save each coordinate
+3. store coordinates as an ____
+4. Pull from ___ and plot() all points as 2d of only x and y but take into account radius
+5. create fxn that pulls xmin, xmax, ymin, ymax,
+eventually create fxn that pulls also zmin and zmax
+use numpy for this
+6. create random plot generator and plot
+7. find union of circle
+only do this if matplotlib does not have a way to check if it overlaps with other plots
+8. find what random plots plotted into union of circles
+9. return numbers
+10. calculate volume of protein
+11 return number
+12 done
